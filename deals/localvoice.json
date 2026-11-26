@@ -1,0 +1,21 @@
+{
+  "name": "LocalVoice",
+  "url": "https://tidyware.app/localvoice/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Transcribe audio and video on your Mac to TXT, SRT, VTT or Markdown, and read text or PDFs aloud to M4A.",
+  "discount": "Launch price $13.30",
+  "prices": [
+    {
+      "plan": "Single license",
+      "before": 19,
+      "after": 13.3
+    }
+  ],
+  "terms": "Released 21 Nov 2026, regular price $19. 30% off, applied automatically at checkout. Pay once, free trial (First 30 minutes free), 14-day refund.",
+  "ends": "2026-12-01",
+  "makerUrl": "https://tidyware.app/",
+  "icon": "https://tidyware.app/localvoice/icon-256.png"
+}
