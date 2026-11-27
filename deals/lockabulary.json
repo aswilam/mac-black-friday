@@ -1,0 +1,15 @@
+{
+  "name": "Lockabulary",
+  "url": "https://apps.apple.com/app/id6827322789",
+  "platforms": ["macOS", "iOS"],
+  "category": "education",
+  "description": "Your Mac blurs the screen now and then for a short European Portuguese, Spanish or French vocab quiz. On iPhone, apps you pick stay locked until you answer.",
+  "discount": "35% off Lifetime",
+  "prices": [{ "plan": "Lifetime (one-time)", "before": 19.99, "after": 12.99 }],
+  "terms": "App Store price, no code. 14-day free trial; one purchase covers Mac and iPhone. Yearly plan not discounted. Local prices vary.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "maker": "Artur Witkowski",
+  "makerUrl": "https://arturwitkowski.com/lockabulary/",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/dc/8e/b5dc8e10-f5cb-6db5-2cbb-9268b2b4afba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+}
