@@ -1,0 +1,30 @@
+{
+  "name": "CopyPasta",
+  "url": "https://usecopypasta.com/#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Clipboard manager that lives in the Mac notch: text, images and colors one hover away, with Paste Stack, on-device OCR and a screenshot beautifier.",
+  "discount": "Launch price $7.50",
+  "prices": [
+    {
+      "plan": "Personal (1 Mac)",
+      "before": 14.99,
+      "after": 7.5
+    },
+    {
+      "plan": "Plus (3 Macs)",
+      "before": 29.99,
+      "after": 15
+    },
+    {
+      "plan": "Studio (5 Macs)",
+      "before": 39.99,
+      "after": 20
+    }
+  ],
+  "terms": "Applied at checkout, no code needed. One-time purchase with lifetime updates. Free 7-day trial.",
+  "icon": "https://usecopypasta.com/images/apple-touch-icon.png",
+  "ends": "2026-12-06"
+}
