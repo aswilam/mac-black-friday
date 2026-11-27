@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:31:10.236Z",
+  "updatedAt": "2026-11-27T02:31:46.555Z",
   "categories": [
     {
       "id": "ai",
@@ -2872,9 +2872,9 @@
         "macOS",
         "iOS"
       ],
-      "category": "education",
+      "category": "launch",
       "description": "Your Mac blurs the screen now and then for a short European Portuguese, Spanish or French vocab quiz. On iPhone, apps you pick stay locked until you answer.",
-      "discount": "35% off Lifetime",
+      "discount": "Launch price $12.99",
       "prices": [
         {
           "plan": "Lifetime (one-time)",
