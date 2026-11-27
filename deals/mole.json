@@ -1,0 +1,22 @@
+{
+  "name": "Mole",
+  "url": "https://mole.fit/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Native Mac cleaner: clears caches and old AI tool data, uninstalls and updates apps, maps your disk and shows live system stats.",
+  "discount": "20% off",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 19,
+      "after": 15.2
+    }
+  ],
+  "terms": "One-time purchase, free updates, two Macs per key; applied at checkout, no code.",
+  "starts": "2026-11-25",
+  "ends": "2026-11-30",
+  "maker": "Tw93",
+  "makerUrl": "https://x.com/HiTw93"
+}
