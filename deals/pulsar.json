@@ -4,8 +4,8 @@
   "platforms": [
     "macOS"
   ],
-  "category": "utilities",
-  "discount": "Pro: $7 lifetime",
+  "category": "launch",
+  "discount": "Launch price $7",
   "description": "Pulsar logs performance spikes on your Mac. With Replay, you can go back to a slowdown and see which processes were busiest at the time.",
   "prices": [
     {
