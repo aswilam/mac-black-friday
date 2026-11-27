@@ -1,0 +1,22 @@
+{
+  "name": "Yado",
+  "url": "https://yado.house/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export and local backups.",
+  "discount": "Launch price $15.20",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 19,
+      "after": 15.2
+    }
+  ],
+  "terms": "One-time purchase, free updates, two Macs per license; applied at checkout, no code. The price stays through Dec 30.",
+  "starts": "2026-11-25",
+  "ends": "2026-12-15",
+  "maker": "Tw93",
+  "makerUrl": "https://x.com/HiTw93"
+}
