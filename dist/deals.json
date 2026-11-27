@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:42:06.113Z",
+  "updatedAt": "2026-11-27T06:53:08.784Z",
   "categories": [
     {
       "id": "ai",
@@ -3781,6 +3781,30 @@
       "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
+      "id": "pake",
+      "name": "Pake",
+      "url": "https://pake.run/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Turns any website into a lightweight desktop app with its own icon and window. Also on Windows and Linux.",
+      "discount": "Launch price $15.20",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19,
+          "after": 15.2
+        }
+      ],
+      "terms": "One-time purchase, up to 3 computers per license, 2 apps free to try; applied at checkout, no code.",
+      "starts": "2026-11-25",
+      "ends": "2026-12-15",
+      "maker": "Tw93",
+      "makerUrl": "https://x.com/HiTw93",
+      "addedAt": "2026-11-27T06:53:00.000Z"
+    },
+    {
       "id": "palmscreen",
       "name": "palmscreen",
       "url": "https://www.palmscreen.app/black-friday/",
@@ -6648,6 +6672,30 @@
       "starts": "2026-11-23",
       "ends": "2026-11-30",
       "addedAt": "2026-11-26T04:32:30.000Z"
+    },
+    {
+      "id": "yado",
+      "name": "Yado",
+      "url": "https://yado.house/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export and local backups.",
+      "discount": "Launch price $15.20",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19,
+          "after": 15.2
+        }
+      ],
+      "terms": "One-time purchase, free updates, two Macs per license; applied at checkout, no code. The price stays through Dec 30.",
+      "starts": "2026-11-25",
+      "ends": "2026-12-15",
+      "maker": "Tw93",
+      "makerUrl": "https://x.com/HiTw93",
+      "addedAt": "2026-11-27T06:53:00.000Z"
     },
     {
       "id": "yaptake",
