@@ -1,0 +1,22 @@
+{
+  "name": "Pake",
+  "url": "https://pake.run/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Turns any website into a lightweight desktop app with its own icon and window. Also on Windows and Linux.",
+  "discount": "20% off",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 19,
+      "after": 15.2
+    }
+  ],
+  "terms": "One-time purchase, up to 3 computers per license, 2 apps free to try; applied at checkout, no code.",
+  "starts": "2026-11-25",
+  "ends": "2026-12-15",
+  "maker": "Tw93",
+  "makerUrl": "https://x.com/HiTw93"
+}
