@@ -4,9 +4,9 @@
   "platforms": [
     "macOS"
   ],
-  "category": "productivity",
+  "category": "launch",
   "description": "Turns any website into a lightweight desktop app with its own icon and window. Also on Windows and Linux.",
-  "discount": "20% off",
+  "discount": "Launch price $15.20",
   "prices": [
     {
       "plan": "License",
