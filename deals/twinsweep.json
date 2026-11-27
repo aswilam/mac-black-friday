@@ -1,0 +1,21 @@
+{
+  "name": "TwinSweep",
+  "url": "https://tidyware.app/twinsweep/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Find duplicate files and photos on your Mac and undo the last clean-up in one click.",
+  "discount": "Launch price $13.30",
+  "prices": [
+    {
+      "plan": "Single license",
+      "before": 19,
+      "after": 13.3
+    }
+  ],
+  "terms": "Released 21 Nov 2026, regular price $19. 30% off, applied automatically at checkout. Pay once, free version (free scan, clean 1 GB free), 14-day refund.",
+  "ends": "2026-12-01",
+  "makerUrl": "https://tidyware.app/",
+  "icon": "https://tidyware.app/twinsweep/icon-256.png"
+}

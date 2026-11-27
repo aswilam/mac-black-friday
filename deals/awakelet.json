@@ -1,0 +1,21 @@
+{
+  "name": "Awakelet",
+  "url": "https://tidyware.app/awakelet/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Menu bar app that keeps your Mac awake for a set time, until an app quits, or until downloads finish.",
+  "discount": "Launch price $6.30",
+  "prices": [
+    {
+      "plan": "Single license",
+      "before": 9,
+      "after": 6.3
+    }
+  ],
+  "terms": "Released 21 Nov 2026, regular price $9. 30% off, applied automatically at checkout. Pay once, free trial (3-day full trial), 14-day refund.",
+  "ends": "2026-12-01",
+  "makerUrl": "https://tidyware.app/",
+  "icon": "https://tidyware.app/awakelet/icon-256.png"
+}

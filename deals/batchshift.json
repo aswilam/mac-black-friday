@@ -1,0 +1,21 @@
+{
+  "name": "BatchShift",
+  "url": "https://tidyware.app/batchshift/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Batch-convert HEIC and WebP folders to JPG or PNG on your Mac: resize, compress and remove GPS data.",
+  "discount": "Launch price $6.30",
+  "prices": [
+    {
+      "plan": "Single license",
+      "before": 9,
+      "after": 6.3
+    }
+  ],
+  "terms": "Released 21 Nov 2026, regular price $9. 30% off, applied automatically at checkout. Pay once, free trial (First 20 images free), 14-day refund.",
+  "ends": "2026-12-01",
+  "makerUrl": "https://tidyware.app/",
+  "icon": "https://tidyware.app/batchshift/icon-256.png"
+}

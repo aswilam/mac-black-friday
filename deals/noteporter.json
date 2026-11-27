@@ -1,0 +1,21 @@
+{
+  "name": "NotePorter",
+  "url": "https://tidyware.app/noteporter/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Lets Claude or Cursor search and write your Apple Notes over MCP, with one-click connect. It never deletes notes.",
+  "discount": "Launch price $10.50",
+  "prices": [
+    {
+      "plan": "Single license",
+      "before": 15,
+      "after": 10.5
+    }
+  ],
+  "terms": "Released 21 Nov 2026, regular price $15. 30% off, applied automatically at checkout. Pay once, free trial (3-day full trial), 14-day refund.",
+  "ends": "2026-12-01",
+  "makerUrl": "https://tidyware.app/",
+  "icon": "https://tidyware.app/noteporter/icon-256.png"
+}
