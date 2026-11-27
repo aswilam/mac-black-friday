@@ -1,0 +1,27 @@
+{
+  "name": "Pulsar",
+  "url": "https://pulsarmac.app/en/#early",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "discount": "Launch price $7",
+  "description": "Pulsar logs performance spikes on your Mac. With Replay, you can go back to a slowdown and see which processes were busiest at the time.",
+  "prices": [
+    {
+      "plan": "Pro (2 Macs)",
+      "before": 14,
+      "after": 7
+    },
+    {
+      "plan": "Supporter (5 Macs)",
+      "before": 29,
+      "after": 14.5
+    }
+  ],
+  "terms": "Buy once and get all future updates. No code needed. Try Pro free for 7 days. Offer ends Dec 7 at 08:00 UTC. Requires Apple silicon and macOS 14 or later.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-07",
+  "makerUrl": "https://x.com/purelind",
+  "icon": "https://pulsarmac.app/logo.svg"
+}
