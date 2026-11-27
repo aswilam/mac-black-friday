@@ -4,9 +4,9 @@
   "platforms": [
     "macOS"
   ],
-  "category": "productivity",
+  "category": "launch",
   "description": "Clipboard manager that lives in the Mac notch: text, images and colors one hover away, with Paste Stack, on-device OCR and a screenshot beautifier.",
-  "discount": "50% off",
+  "discount": "Launch price $7.50",
   "prices": [
     {
       "plan": "Personal (1 Mac)",
