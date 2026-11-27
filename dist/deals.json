@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:31:46.555Z",
+  "updatedAt": "2026-11-27T06:40:40.910Z",
   "categories": [
     {
       "id": "ai",
@@ -292,6 +292,29 @@
       "addedAt": "2026-11-09T13:23:57.000Z"
     },
     {
+      "id": "awakelet",
+      "name": "Awakelet",
+      "url": "https://tidyware.app/awakelet/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Menu bar app that keeps your Mac awake for a set time, until an app quits, or until downloads finish.",
+      "discount": "Launch price $6.30",
+      "prices": [
+        {
+          "plan": "Single license",
+          "before": 9,
+          "after": 6.3
+        }
+      ],
+      "terms": "Released 21 Nov 2026, regular price $9. 30% off, applied automatically at checkout. Pay once, free trial (3-day full trial), 14-day refund.",
+      "ends": "2026-12-01",
+      "makerUrl": "https://tidyware.app/",
+      "icon": "https://tidyware.app/awakelet/icon-256.png",
+      "addedAt": "2026-11-27T06:40:31.000Z"
+    },
+    {
       "id": "babapic",
       "name": "BabaPic",
       "url": "https://www.babapic.cc/",
@@ -410,6 +433,29 @@
       "makerUrl": "https://www.barcodecraft.com/",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/02/d173024f-bf69-4a75-d8a8-986cc86d7ea3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "addedAt": "2026-11-18T17:14:02.000Z"
+    },
+    {
+      "id": "batchshift",
+      "name": "BatchShift",
+      "url": "https://tidyware.app/batchshift/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Batch-convert HEIC and WebP folders to JPG or PNG on your Mac: resize, compress and remove GPS data.",
+      "discount": "Launch price $6.30",
+      "prices": [
+        {
+          "plan": "Single license",
+          "before": 9,
+          "after": 6.3
+        }
+      ],
+      "terms": "Released 21 Nov 2026, regular price $9. 30% off, applied automatically at checkout. Pay once, free trial (First 20 images free), 14-day refund.",
+      "ends": "2026-12-01",
+      "makerUrl": "https://tidyware.app/",
+      "icon": "https://tidyware.app/batchshift/icon-256.png",
+      "addedAt": "2026-11-27T06:40:31.000Z"
     },
     {
       "id": "beat-chess-coach",
@@ -2865,6 +2911,29 @@
       "addedAt": "2026-11-24T09:47:34.000Z"
     },
     {
+      "id": "localvoice",
+      "name": "LocalVoice",
+      "url": "https://tidyware.app/localvoice/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Transcribe audio and video on your Mac to TXT, SRT, VTT or Markdown, and read text or PDFs aloud to M4A.",
+      "discount": "Launch price $13.30",
+      "prices": [
+        {
+          "plan": "Single license",
+          "before": 19,
+          "after": 13.3
+        }
+      ],
+      "terms": "Released 21 Nov 2026, regular price $19. 30% off, applied automatically at checkout. Pay once, free trial (First 30 minutes free), 14-day refund.",
+      "ends": "2026-12-01",
+      "makerUrl": "https://tidyware.app/",
+      "icon": "https://tidyware.app/localvoice/icon-256.png",
+      "addedAt": "2026-11-27T06:40:31.000Z"
+    },
+    {
       "id": "lockabulary",
       "name": "Lockabulary",
       "url": "https://apps.apple.com/app/id6827322789",
@@ -3397,6 +3466,29 @@
       "starts": "2026-11-25",
       "terms": "Automatically applied at checkout; one-time desktop license; 2026-11-25 to 2026-11-30",
       "addedAt": "2026-11-09T13:17:27.000Z"
+    },
+    {
+      "id": "noteporter",
+      "name": "NotePorter",
+      "url": "https://tidyware.app/noteporter/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Lets Claude or Cursor search and write your Apple Notes over MCP, with one-click connect. It never deletes notes.",
+      "discount": "Launch price $10.50",
+      "prices": [
+        {
+          "plan": "Single license",
+          "before": 15,
+          "after": 10.5
+        }
+      ],
+      "terms": "Released 21 Nov 2026, regular price $15. 30% off, applied automatically at checkout. Pay once, free trial (3-day full trial), 14-day refund.",
+      "ends": "2026-12-01",
+      "makerUrl": "https://tidyware.app/",
+      "icon": "https://tidyware.app/noteporter/icon-256.png",
+      "addedAt": "2026-11-27T06:40:31.000Z"
     },
     {
       "id": "notesmith",
@@ -5871,6 +5963,29 @@
       "makerUrl": "https://tutti.barrybarrywu.com/",
       "icon": "https://tutti.barrybarrywu.com/icon.png",
       "addedAt": "2026-11-21T04:18:34.000Z"
+    },
+    {
+      "id": "twinsweep",
+      "name": "TwinSweep",
+      "url": "https://tidyware.app/twinsweep/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Find duplicate files and photos on your Mac and undo the last clean-up in one click.",
+      "discount": "Launch price $13.30",
+      "prices": [
+        {
+          "plan": "Single license",
+          "before": 19,
+          "after": 13.3
+        }
+      ],
+      "terms": "Released 21 Nov 2026, regular price $19. 30% off, applied automatically at checkout. Pay once, free version (free scan, clean 1 GB free), 14-day refund.",
+      "ends": "2026-12-01",
+      "makerUrl": "https://tidyware.app/",
+      "icon": "https://tidyware.app/twinsweep/icon-256.png",
+      "addedAt": "2026-11-27T06:40:31.000Z"
     },
     {
       "id": "twofold",
